@@ -1,2 +1,2 @@
 # Add your variables here
-var number = 10 
+var number = 10
