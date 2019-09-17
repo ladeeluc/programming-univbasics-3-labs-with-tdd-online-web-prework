@@ -4,3 +4,4 @@ var second number = 3
 var sum = 13
 var difference = 7
 var product = 30
+var quotient = 10/3
