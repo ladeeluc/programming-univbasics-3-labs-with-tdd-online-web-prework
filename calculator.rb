@@ -1,2 +1,3 @@
 # Add your variables here
-var number = 10
+var first number = 10
+var second number = 3
